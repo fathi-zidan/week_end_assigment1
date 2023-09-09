@@ -33,6 +33,11 @@ body {
     font-size: 17px;
     margin: 0 20px; /* Add some spacing between links */
 }
+.top_nav .div1{
+    display : inline ;
+    padding: 0px;
+    margin-right: 0;
+}
 
 .top_nav a:hover {
     background-color: #ddd;
